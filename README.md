@@ -4,19 +4,19 @@ description: Scalable & confidential smart contracts for Bitcoin & lightning net
 
 # RGB Blueprint
 
-RGB is a suite of protocols for scalable & confidential smart contracts for Bitcoin & lightning network. They embrace concepts of private & mutual ownership, abstraction and separation of concerns and represent "post-blockchain", Turing-complete form of trustless distributed computing which does not require introduction of "tokens".
+In order to understand technical details behind RGB one have to become familiar with the following concepts, which are heavily used in RGB design:RGB is a suite of protocols for scalable & confidential smart contracts for Bitcoin & lightning network. They embrace concepts of private & mutual ownership, abstraction and separation of concerns and represent "post-blockchain", Turing-complete form of trustless distributed computing which does not require introduction of "tokens".
 
 As a smart contract system RGB is quite different from previous approaches, both Bitcoin-based \(Colored coins, Counterparty, OMNI\) and non-bitcoin \(Ethereum, EOS and others\):
 
 * RGB separates concept of smart contract **issuer**, **state owners** and **state evolution**
-* RGB keeps the smart contract code and data offchain
+* RGB keeps the smart contract code and data off-chain
 * RGB uses blockchain as a state commitment layer and Bitcoin script as an ownership control system; while smart contract evolution is defined by off-chain **schema**
 
 More about these concepts can be read in [this presentation](https://github.com/LNP-BP/FAQ/blob/master/Presentation%20slides/RGB%20%26%20Spectrum%20explanation%20for%20business.pdf).
 
 ## Core underlying concepts
 
-In order to understand technical details behind RGB one have to become familiar with the following concepts, which are hevily used in RGB design:
+
 
 * Distributed systems \(replicated state machines\), including
   * PRISM \(partially-replicated infinite state machines\) computing
@@ -29,7 +29,7 @@ In order to understand technical details behind RGB one have to become familiar 
   * Bulletproofs
 * Cryptographic commitment schemes, including
   * BIP-340 tagged hashes
-  * Advanced merklization schemes \(LNPBP-\)
+  * Advanced merklization schemes \(LNPBP-81\)
   * Multi-message commitments
   * Deterministic bitcoin commitments
 * Client-side-validation, including:
