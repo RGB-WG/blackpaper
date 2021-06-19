@@ -16,8 +16,6 @@ More about these concepts can be read in [this presentation](https://github.com/
 
 ## Core underlying concepts
 
-
-
 * Distributed systems \(replicated state machines\), including
   * PRISM \(partially-replicated infinite state machines\) computing
   * AluVM instruction set architecture
@@ -36,6 +34,7 @@ More about these concepts can be read in [this presentation](https://github.com/
   * Strict encoding \(LNPBP-7\)
   * Commit-conceal schemes
   * Single-use-seals
+  * Proof-of-publication medium
 * Bitcoin transactions, including
   * PSBTs v1 and v2
   * Bitcoin TxO2 single-use-seals
@@ -101,7 +100,7 @@ RGB was originally envisioned in 2016 by _Giacomo Zucco_ \(**BHB Network**\) as 
 * [_yojoe_](https://github.com/yojoe)\_\_
 * _ZmnSCPxj_, 
 * _Zoe Faltiba,_
-* \_\_[_zkao_](https://github.com/zkao)_,_
+* \_\_[_zkao_](https://github.com/zkao)
 
 The community and contribution management since 2019 was performed by _Olga Ukolova_, Pandora Core AG.
 
@@ -118,7 +117,7 @@ Many input into protocol design ideas and suggestions came from personal convers
 We are thankful to the early adopters of RGB protocols, who invested and continue to invest into RGB integration and independent peer reviews:
 
 * HodlHodl
-* Bitfinex & Tether
+* Bitfinex & Tether Inc
 * Condensat Technologies
 * inbitcoin
 * SuredBits
