@@ -1,2 +1,2 @@
-# RGB22: Identity
+# RGB22: Self-issued identity
 

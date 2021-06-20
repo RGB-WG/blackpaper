@@ -1,2 +1,2 @@
-# RGB20: Securities
+# RGB20: Fungible tokens
 
