@@ -10,6 +10,8 @@
 * [Abstraction layers](design/layers.md)
 * [Client-side-validation](design/client-side-validation.md)
 * [State ownership](design/state-ownership.md)
+* [PRISM computing](design/prism-computing.md)
+* [Commit protocols](design/commit-protocols.md)
 * [Contract structure](design/contract-structure.md)
 * [Confidentiality](design/confidentiality.md)
 * [Public extensions](design/public-extensions.md)
@@ -20,6 +22,8 @@
 * [Extra-contract data](design/extra-contract-data.md)
 * [Invoicing](design/invoices.md)
 * [Networking](design/networking.md)
+* [Interoperability](design/interoperability.md)
+* [Extensibility](design/extensibility.md)
 * [Inter-contract operations](design/inter-contract-operations.md)
 
 ## RGB/1 Specification <a id="spec-v1"></a>
