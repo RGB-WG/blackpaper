@@ -6,6 +6,8 @@ description: Scalable & confidential smart contracts for Bitcoin & lightning net
 
 RGB is a suite of protocols for scalable & confidential smart contracts for Bitcoin & lightning network. They embrace concepts of private & mutual ownership, abstraction and separation of concerns and represent "post-blockchain", Turing-complete form of trustless distributed computing which does not require introduction of "tokens".
 
+This document is targeting technical readers, who would like to understand, audit, extend or build new applied tech with RGB. The document presents an explanation of design principles and provides deep technical insights into how RGB system is structured and work. It is not a formal RGB spec, however the information is based on underlying [LNPBPs](https://standards.lnp-bp.org) standards defining parts of the RGB protocol and related technologies.  
+
 As a smart contract system RGB is quite different from previous approaches, both Bitcoin-based \(Colored coins, Counterparty, OMNI\) and non-bitcoin \(Ethereum, EOS and others\):
 
 * RGB separates concept of smart contract **issuer**, **state owners** and **state evolution**
