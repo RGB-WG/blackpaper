@@ -24,7 +24,7 @@ In order to understand technical details behind RGB one have to become familiar 
   * PRISM \(partially-replicated infinite state machines\) computing
   * AluVM instruction set architecture
 * Non-imperative computing, including
-  * Declarative programming
+  * Declarative functional programming
   * Cellular automation
 * Zero knowledge protocols, including
   * Confidential transactions
@@ -32,15 +32,15 @@ In order to understand technical details behind RGB one have to become familiar 
 * Cryptographic commitment schemes, including
   * BIP-340 tagged hashes
   * Advanced merklization schemes \(LNPBP-81\)
-  * Multi-message commitments
-  * Deterministic bitcoin commitments
+  * Multi-message commitments \(LNPBP-4\)
+  * Deterministic bitcoin commitments \(LNPBP-1, 2, 3\)
 * Client-side-validation, including:
   * Strict encoding \(LNPBP-7\)
   * Commit-conceal schemes
   * Single-use-seals
-  * Proof-of-publication medium
+  * Proof-of-publication
 * Bitcoin transactions, including
-  * PSBTs v1 and v2
+  * PSBTs v1 and v2 \(BIP-174, BIP-370\)
   * Bitcoin TxO2 single-use-seals
 * Lightning network protocol, including
   * Lightning P2P message extensions
