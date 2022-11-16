@@ -1,6 +1,6 @@
 # Table of contents
 
-* [RGB Blueprint](README.md)
+* [RGB Whitepaper](README.md)
 * [Background & Motivation](background-and-motivation.md)
 * [Comparison](comparison.md)
 
@@ -26,7 +26,7 @@
 * [Extensibility](design/extensibility.md)
 * [Inter-contract operations](design/inter-contract-operations.md)
 
-## RGB/1 Specification <a id="spec-v1"></a>
+## RGB/1 Specification <a href="#spec-v1" id="spec-v1"></a>
 
 * [State](spec-v1/state.md)
 * [Assignments](spec-v1/assignments.md)
@@ -61,4 +61,3 @@
 * [Lectures & Talks](supplement/lectures-and-talks.md)
 * [Publications](supplement/publications.md)
 * [Products with RGB](supplement/products-with-rgb.md)
-
