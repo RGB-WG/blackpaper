@@ -1,6 +1,6 @@
 # Table of contents
 
-* [RGB Whitepaper](README.md)
+* [RGB Blackpaper](README.md)
 * [Background & Motivation](background-and-motivation.md)
 * [Comparison](comparison.md)
 
