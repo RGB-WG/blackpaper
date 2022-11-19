@@ -26,19 +26,7 @@
 * [Extensibility](design/extensibility.md)
 * [Inter-contract operations](design/inter-contract-operations.md)
 
-## RGB/1 Specification <a href="#spec-v1" id="spec-v1"></a>
-
-* [State](spec-v1/state.md)
-* [Assignments](spec-v1/assignments.md)
-* [Schema](spec-v1/schema.md)
-* [Contract nodes](spec-v1/contract-nodes.md)
-* [VM](spec-v1/vm.md)
-* [Anchoring](spec-v1/anchoring.md)
-* [Consignments](spec-v1/consignments.md)
-* [Disclosures](spec-v1/disclosures.md)
-* [Containers](spec-v1/containers.md)
-
-## Schemata
+## Schemata Standards <a href="#schemata" id="schemata"></a>
 
 * [RGB20: Fungible tokens](schemata/rgb20-securities.md)
 * [RGB21: NFTs](schemata/rgb21-nfts.md)
