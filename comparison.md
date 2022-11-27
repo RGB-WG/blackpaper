@@ -1,21 +1,2 @@
 # Comparison
 
-| Parameter                                      | RGB                        | Liquid                  | Ethereum, RSK etc          | Stacks | CMYK ("Taro")  |
-| ---------------------------------------------- | -------------------------- | ----------------------- | -------------------------- | ------ | -------------- |
-| Native currency                                | ✅ BTC                      | ⚠️ LBTC (federated peg) | 🚫 ETH                     | 🚫 ?   | ✅ BTC          |
-| Requires token                                 | ✅ No                       | ✅ No                    | 🚫 Yes (except RSK)        | 🚫 Yes | ✅ No           |
-| Issues token                                   | ✅ No                       | ✅ No                    | 🚫 Yes                     | 🚫 Yes | ✅ No           |
-| Gas                                            | ✅ No                       | ✅ No                    | 🚫 Yes                     | ?      | ✅ No           |
-| Non-token smart contracts                      | ✅                          | 🚫                      | ✅                          | ?      | 🚫             |
-| Data network for NFTs and attachments          | ✅ Storm on LN paid in sats | 🚫                      | ⚠️ IPFS (no incentivation) | ?      | Unknown        |
-| Support for arbitrary structured data          | ✅                          | 🚫                      | ✅                          | 🚫     | 🚫             |
-| Virtual machine                                | Bitcoin Script + AluVM     | Bitcoin Script          | EVM, sometimes EWASM       | ?      | Bitcoin Script |
-| Turing completeness                            | ✅                          | 🚫                      | ✅                          | ?      | 🚫             |
-| Separation of state from ownership             | ✅                          | 🚫                      | 🚫                         | 🚫     | ✅              |
-| Client-side-validation (scalability & privacy) | ✅                          | 🚫                      | 🚫                         | 🚫     | ✅              |
-| Zero knowledge                                 | ✅ Bullet proofs            | ✅ Range proofs          | ⚠️ n/a, maybe STARKs       | 🚫     | 🚫             |
-| Breaks transaction graph & chainanal           | ✅                          | 🚫                      | 🚫                         | 🚫     | 🚫             |
-| Released / used in production                  | ✅                          | ✅                       | ✅                          | ✅      | 🚫             |
-
-
-

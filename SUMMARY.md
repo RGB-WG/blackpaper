@@ -9,7 +9,7 @@
 * [Design principles](design/design-principles.md)
 * [Abstraction layers](design/layers.md)
 * [Client-side-validation](design/client-side-validation.md)
-* [State ownership](design/state-ownership.md)
+* [State & ownership](design/state-ownership.md)
 * [PRISM computing](design/prism-computing.md)
 * [Commit protocols](design/commit-protocols.md)
 * [Contract structure](design/contract-structure.md)
