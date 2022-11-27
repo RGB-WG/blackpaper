@@ -29,7 +29,7 @@
 ## Schemata Standards <a href="#schemata" id="schemata"></a>
 
 * [RGB20: Fungible tokens](schemata/rgb20-securities.md)
-* [RGB21: NFTs](schemata/rgb21-nfts.md)
+* [RGB21: NFT collectibles](schemata/rgb21-nfts.md)
 * [RGB22: Self-issued identity](schemata/rgb22-identity.md)
 * [RGB23: Audit logs](schemata/rgb23-audit-logs.md)
 * [RGB24: Decentralized naming](schemata/rgb24-decentralized-naming.md)
