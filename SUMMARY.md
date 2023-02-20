@@ -25,9 +25,10 @@
   * [4.1. Strict types system](consensus-layer/4.-ubiquitous-deterministic-computin/4.1.-strict-types-system.md)
   * [4.2. AluVM virtual machine](consensus-layer/4.-ubiquitous-deterministic-computin/4.2.-aluvm-virtual-machine.md)
 * [5. Contracts, state & operations](consensus-layer/5.-contracts-state-and-operations/README.md)
-  * [5.1. Contract state](consensus-layer/5.-contracts-state-and-operations/5.1.-contract-state.md)
-  * [5.2. Contract operations](consensus-layer/5.-contracts-state-and-operations/5.2.-contract-operations.md)
-  * [5.3. Contract validation](consensus-layer/5.-contracts-state-and-operations/5.3.-contract-validation.md)
+  * [5.1. Schema](consensus-layer/5.-contracts-state-and-operations/5.1.-schema.md)
+  * [5.2. Contract state](consensus-layer/5.-contracts-state-and-operations/5.2.-contract-state.md)
+  * [5.3. Contract operations](consensus-layer/5.-contracts-state-and-operations/5.3.-contract-operations.md)
+  * [5.4. Contract validation](consensus-layer/5.-contracts-state-and-operations/5.4.-contract-validation.md)
 
 ## Application layer
 
