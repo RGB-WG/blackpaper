@@ -1,2 +1,0 @@
-# PRISM computing
-
