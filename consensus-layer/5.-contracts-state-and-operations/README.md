@@ -22,6 +22,6 @@ _State_ of the contract consists of _state atoms_ of different _data types_. _Da
 
 RGB contract always have a well-defined parties of the contract, which hold _ownership rights_ over _atoms of state_. The state owned by a contract party is called _owned state_.
 
-Let's start with writing a simple contract managing decentralized identity backed by a PGP key. The "smartness" of the contract (comparing to normal PGP/GPG and Web of Trust) comes from the fact that when a revocation operation is executed, everybody in the world will know about it (since thay can see that the UTXO, associated with the key -- the owned state -- was spent), and it can be proven whether at any given moment of time the identity was valid -- or it was already revoked.
+Let's start with writing a simple contract managing decentralized identity backed by a PGP key. The "smartness" of the contract (comparing to normal PGP/GPG and Web of Trust) comes from the fact that when a revocation operation is executed, everybody in the world will know about it (since they can see that the UTXO, associated with the key -- the owned state -- was spent), and it can be proven whether at any given moment of time the identity was valid -- or it was already revoked.
 
 5.5. Availability of the global state
